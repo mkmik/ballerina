@@ -6,3 +6,7 @@ red ball which can rotate in both directions, following an elliptical path (an i
 
 I don't know if it works for all, but for me this simple (and unprecise) animation,
  combined with the psycologial effect introduced by clicking on a "change direction" button, swaps the dancer's direction immediately in my head, or at least within one rotation.
+
+You can see a demo at:
+
+http://dl.dropbox.com/u/2520452/ballerina/ballerina.html
